@@ -519,7 +519,7 @@ span {
     }
 
     .skills-container {
-        flex-direction: column;
+        
     }
 
     .portfolio h2 {
@@ -528,6 +528,5 @@ span {
 
     .portfolio-container {
         grid-template-columns: repeat(1, 1fr);
-
     }
 }

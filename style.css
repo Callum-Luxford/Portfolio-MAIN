@@ -43,6 +43,8 @@ span {
     color: var(--main-color);
 }
 
+/* Header Section */
+
 .header {
     position: fixed;
     top: 0;
@@ -92,6 +94,10 @@ span {
     color: var(--text-color);
     display: none;
 }
+
+/* End of Header Section */
+
+/* Home Section */
 
 .home {
     display: flex;
@@ -158,6 +164,8 @@ span {
     box-shadow: none;
 }
 
+/* End of Home Section */
+
 /* About Section */
 
 .about {
@@ -204,6 +212,8 @@ span {
     font-weight: bold;
 }
 
+/* End of About Section */
+
 /* Skills Section */
 
 .skills h2 {
@@ -244,6 +254,8 @@ span {
     font-size: 8rem;
     color: var(--main-color)
 }
+
+/* End of Skills Section */
 
 /* Porfolio Section */
 
@@ -326,6 +338,8 @@ span {
     color: var(--second-bg-color);
 }
 
+/* End of Porfolio Section */
+
 /* Contact Section */
 
 .contact h2 {
@@ -369,6 +383,8 @@ span {
     margin-top: 1.5rem;
     cursor: pointer;
 }
+
+/* End of Contact Section */
 
 /* Edit - Contact Section */
 
@@ -445,6 +461,7 @@ span {
     margin-right: 15%;
 }
 
+/* End of footer section */
 
 /* Media Query */
 

@@ -370,6 +370,21 @@ span {
     cursor: pointer;
 }
 
+/* Edit - Contact Section */
+
+.contact-form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+}
+
+.contact-form form .btn {
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+/* End of Edit - Contact Section */
+
 /* footer section */
 
 .footer {
@@ -450,6 +465,10 @@ span {
     }
 
     .skills {
+        padding-bottom: 7rem;
+    }
+
+    .portfolio {
         padding-bottom: 7rem;
     }
 
